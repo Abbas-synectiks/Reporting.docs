@@ -24,21 +24,21 @@
  - ----------------------------------------------------------
 |Module|Usecase title|Prototype link|Tech flow|Usecase doc|Test case|
 |------|-------------|--------------|---------|-----------|---------|
-Dashboard Overview||||||
+Dashboard Overview||https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=29478-43993&t=raZWeZBn767mEDUn-0&scaling=scale-down&page-id=29478%3A37045||||
 ||Spend Overview|||||
 ||Top Used Services|||||
 ||Potential Savings|||||
 ||Cost Of Top Accounts|||||
 ||Spending Trend|||||
-Chargeback||||||
+Chargeback||https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=29560-31252&t=raZWeZBn767mEDUn-0&scaling=scale-down&page-id=29560%3A30876&starting-point-node-id=29560%3A31252||||
 ||Usage By Department|||||
 ||Creating Invoice|||||
-Budget Dashboard||||||
+Budget Dashboard||https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=29494-50186&t=raZWeZBn767mEDUn-0&scaling=scale-down&page-id=29494%3A50138&starting-point-node-id=29494%3A50186||||
 ||Accounts With High Spending|||||
 ||Transaction Type Cost|||||
 ||Top Products With High Spending|||||
 ||Top Departments Exceeding Budget|||||
-Cost Central||||||
+Cost Central||https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=31354-11543&t=raZWeZBn767mEDUn-0&scaling=scale-down-width&page-id=29465%3A20833&starting-point-node-id=29494%3A29102&hide-ui=1||||
 ||Top 5 Accounts|||||
 ||Most Used Services|||||
 ||Top 5 Regions|||||
