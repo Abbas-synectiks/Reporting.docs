@@ -21,10 +21,10 @@
   -  Identifies the top five regions with the highest resource consumption for strategic planning.<br>
   - Lists the top five products contributing to overall spending, guiding optimization strategies.
   <br>
- - Cloud Central Dashboard shows total accounts, products, and services for a holistic view and classifies products as SOA or 3-tier architecture for optimization insights.<br>
+- Cloud Central Dashboard shows total accounts, products, and services for a holistic view and classifies products as SOA or 3-tier architecture for optimization insights.<br>
     - Identifies cost-saving opportunities through right-sizing and resource optimization and categorizes resources as optimal, at risk, potential savings, or unanalyzed.
     - Highlights accounts with the highest number of associated products.
-    - Identifies regions with the highest deployment of cloud services.
+    - Identifies regions with the highest deployment of cloud services. 
 
  - ----------------------------------------------------------
 |Module|Usecase title|Prototype link|Tech flow|Usecase doc|Test case|
