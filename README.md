@@ -48,3 +48,12 @@ Cost Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Re
 ||Most Used Services|||||
 ||Top 5 Regions|||||
 ||Top 5 Products|||||
+Cloud Central||[Figma Link]([https://www.figma.com/file/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=32789%3A1794&mode=design&t=WEtHcyTgQciwR9lY-1)||||
+||Cloud Summary|||||
+||Product Category|||||
+||Potential Savings|||||
+||Status Of Analysed Services|||||
+||Top Accounts With More Products|||||
+||Top Products With More Products|||||
+||Top Services|||||
+
