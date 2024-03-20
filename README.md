@@ -45,7 +45,7 @@ Budget Dashboard||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4s
 ||Transaction Type Cost|||||
 ||Top Products With High Spending|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Budget/BO_TopProductsWithHighSpendings.md)||
 ||Top Departments Exceeding Budget|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Budget/BO_TopDepartmentsExceedingBudget.md)||
-Cost Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=31354-11543&t=raZWeZBn767mEDUn-0&scaling=scale-down-width&page-id=29465%3A20833&starting-point-node-id=29494%3A29102&hide-ui=1)||||
+Cost Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=31354-11543&t=raZWeZBn767mEDUn-0&scaling=scale-down-width&page-id=29465%3A20833&starting-point-node-id=29494%3A29102&hide-ui=1)||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Cost%20Central%20Overview.md)||
 ||Top 5 Accounts|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Top%205%20accounts%20usecase.md)||
 ||Most Used Services|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Most%20used%20servoces%20usecases.md)||
 ||Top 5 Regions|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Cost%20Central%20-%20Top%205%20Regions%20-%20Individual.md)||
@@ -56,6 +56,6 @@ Cloud Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/R
 ||Potential Savings|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Use%20Case%20of%20the%20Potential%20Savings.md)||
 ||Status Of Analysed Services|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Use%20Case%20Of%20Status%20of%20Analysed%20Services%20of%20a%20Single%20Account.md)||
 ||Top Accounts With More Products|||||
-||Top Products With More Products|||||
+||Top Products With More Services|||||
 ||Top Services|||||
 
