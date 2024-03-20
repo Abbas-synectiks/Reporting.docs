@@ -46,9 +46,9 @@ Budget Dashboard||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4s
 ||Top Products With High Spending|||||
 ||Top Departments Exceeding Budget|||||
 Cost Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=31354-11543&t=raZWeZBn767mEDUn-0&scaling=scale-down-width&page-id=29465%3A20833&starting-point-node-id=29494%3A29102&hide-ui=1)||||
-||Top 5 Accounts|||||
-||Most Used Services|||||
-||Top 5 Regions|||||
+||Top 5 Accounts|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Top%205%20accounts%20usecase.md)||
+||Most Used Services|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Most%20used%20servoces%20usecases.md)||
+||Top 5 Regions|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Cost%20Central%20-%20Top%205%20Regions%20-%20Individual.md)||
 ||Top 5 Products|||||
 Cloud Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?page-id=32789%3A1794&type=design&node-id=32817-11754&viewport=-2138%2C-1331%2C0.5&t=PPAePcMQ9q0ehux7-1&scaling=min-zoom&starting-point-node-id=32817%3A11754&mode=design)||||
 ||Cloud Summary|||||
