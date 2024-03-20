@@ -36,9 +36,9 @@ Dashboard Overview||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB
 ||Cost Of Top Accounts|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Dashboard/CostofTopAcc-Widget-Usecase.md)||
 ||Spending Trend|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Dashboard/Spending-Widget-Usecase.md)||
 Chargeback||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=29560-31252&t=raZWeZBn767mEDUn-0&scaling=scale-down&page-id=29560%3A30876&starting-point-node-id=29560%3A31252)||||
-||Usage By Department|||||
-||Monthly Usage By Department|||||
-||Monthly Cost and Budget|||||
+||Usage By Department|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/chargeback/Usage%20by%20department.md)||
+||Monthly Usage By Department|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/chargeback/monthly%20usage%20by%20department%20usecase.md)||
+||Monthly Cost and Budget|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/chargeback/monthly%20cost%20and%20budget%20usecase.md)||
 ||Creating Invoice|||||
 Budget Dashboard||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=29494-50186&t=raZWeZBn767mEDUn-0&scaling=scale-down&page-id=29494%3A50138&starting-point-node-id=29494%3A50186)||||
 ||Accounts With High Spending|||||
