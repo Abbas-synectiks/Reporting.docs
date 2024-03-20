@@ -1,9 +1,5 @@
 ﻿**Use Case Of Cloud Central Dashboard.**
 
-![A screenshot of a dashboard
-
-Description automatically generated](Aspose.Words.3bdb4107-a9e8-4c54-ab63-b3344285d342.001.jpeg)
-
 **Title: Cloud Central Dashboard**
 
 **Description:**
