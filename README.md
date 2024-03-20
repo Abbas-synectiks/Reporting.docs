@@ -33,7 +33,7 @@ Dashboard Overview||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB
 ||Spend Overview|||||
 ||Top Used Services|||||
 ||Potential Savings|||||
-||Cost Of Top Accounts|||||
+||Cost Of Top Accounts|||'[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Dashboard/CostofTopAcc-Widget-Usecase.md)||
 ||Spending Trend|||||
 Chargeback||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=29560-31252&t=raZWeZBn767mEDUn-0&scaling=scale-down&page-id=29560%3A30876&starting-point-node-id=29560%3A31252)||||
 ||Usage By Department|||||
