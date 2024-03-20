@@ -1,40 +1,6 @@
 ﻿**Use Case Of Status of Analysed Services of a Single Account.**
 
-![A screenshot of a computer
 
-Description automatically generated](Aspose.Words.98001b88-84fa-4889-86b2-e6022b4831bc.001.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.98001b88-84fa-4889-86b2-e6022b4831bc.002.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.98001b88-84fa-4889-86b2-e6022b4831bc.003.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.98001b88-84fa-4889-86b2-e6022b4831bc.004.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.98001b88-84fa-4889-86b2-e6022b4831bc.005.jpeg)
-
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.98001b88-84fa-4889-86b2-e6022b4831bc.006.jpeg)
-
-![A screen shot of a graph
-
-Description automatically generated](Aspose.Words.98001b88-84fa-4889-86b2-e6022b4831bc.007.jpeg)
-
-![A screenshot of a graph
-
-Description automatically generated](Aspose.Words.98001b88-84fa-4889-86b2-e6022b4831bc.008.jpeg)
-
-![A screenshot of a graph
-
-Description automatically generated](Aspose.Words.98001b88-84fa-4889-86b2-e6022b4831bc.009.jpeg)
 
 **Title:** Use Case of Status of Analysed Services of a single Account
 
