@@ -1,8 +1,6 @@
 ﻿**Use Case: Cost Central Dashboard**
 
-![A screenshot of a dashboard
 
-Description automatically generated](Aspose.Words.ce4d4b38-a9f4-4462-99e0-2f2a802527fd.001.png)
 
 **Actors:**
 
