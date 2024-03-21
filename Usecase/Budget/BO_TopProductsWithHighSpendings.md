@@ -1,19 +1,19 @@
 ﻿
-Use Case: Top Products with High Spending Widget on Budget Dashboard of Appkube
+**Use Case:** Top Products with High Spending Widget on Budget Dashboard of Appkube
 
-Title: Monitoring and Analyzing Cloud Spending Across Multiple Providers
+**Title:** Monitoring and Analyzing Cloud Spending Across Multiple Providers
 
-Actor: User (Administrator or Analyst)
+**Actor:** User (Administrator or Analyst)
 
-Goal: To monitor and analyze spending on cloud services across different providers and drill down into detailed information about specific products and their utilization.
+**Goal:** To monitor and analyze spending on cloud services across different providers and drill down into detailed information about specific products and their utilization.
 
-Preconditions:
+**Preconditions:**
 
 1. The user has access to the budget dashboard within the Appkube platform.
 1. The user has appropriate permissions to view spending data and access detailed information about cloud services and products.
 1. Data for spending and usage of cloud services is available and up-to-date.
 
-   Main Success Scenario:
+   **Main Flow**
 
 1. The user logs into the Appkube platform and navigates to the budget dashboard.
 1. On the budget dashboard, the user locates the "Top Products with High Spending" widget.
@@ -31,7 +31,7 @@ Preconditions:
 1. The user can select any layer to see the details of that layer on the right side of the screen, displaying all the resources being utilized.
 1. When the user clicks on any service, they receive data about the duration of resources running and its cost.
 
-   Postconditions:
+   **Postconditions:**
 
 1. The user gains insights into the top spending products across different cloud service providers.
 1. Detailed information about specific products, their utilization, and spending is accessible and understandable.
