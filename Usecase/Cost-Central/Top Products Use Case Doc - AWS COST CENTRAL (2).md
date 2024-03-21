@@ -1,4 +1,4 @@
-﻿**Use Case: Cost of ‘Top 5 Products’ Widget**
+**Use Case: Cost of ‘Top 5 Products’ Widget**
 
 **Title:** Analyzing Top 5 Products Expenditure
 
@@ -17,9 +17,7 @@
 - User has accessed the 'Cost Central Dashboard.'
 - The 'Top 5 Products' widget is visible on the overview dashboard.
 - Relevant cloud accounts are integrated with the system.
-- ![A screenshot of a computer
 
-Description automatically generated](Aspose.Words.cfad73bb-5444-4102-98d2-22ef2e9fddcf.001.png)Data for the top products and their spending details is available.
 
 **Main Flow:**
 
@@ -72,9 +70,7 @@ Description automatically generated](Aspose.Words.cfad73bb-5444-4102-98d2-22ef2e
 
 **Use Case: Cost of Internal CRM Tool - Detailed Services Analysis**
 
-**Title:** 
-
-vices Cost within 'Internal CRM Tool'
+**Title:** services Cost within 'Internal CRM Tool'
 
 **Introduction:** Upon clicking the 'View More' button in the 'Actions' tab for the 'Internal CRM Tool' on the 'Cost of Top 5 Products' page, users are directed to a new page that provides a detailed breakdown of services used within the 'Internal CRM Tool.'
 
@@ -101,10 +97,6 @@ vices Cost within 'Internal CRM Tool'
    1. Users are directed to a new page titled 'Services in Internal CRM Tool.'
    1. Three tabs ('AWS,' 'AZURE,' 'GCP') are present, with 'AWS' selected by default.
 
-![A screenshot of a computer
-
-Description automatically generated](Aspose.Words.cfad73bb-5444-4102-98d2-22ef2e9fddcf.002.png)
-
 1. **Date Picker and Filter Options:**
    1. On the top right corner, a 'Date Picker' button allows users to select a date range.
    1. Pre-selected date options include 'Last Month,' 'This Month,' 'Last Quarter,' 'Current Quarter,' 'Current Year,' and 'Last Year.'
@@ -124,14 +116,15 @@ Description automatically generated](Aspose.Words.cfad73bb-5444-4102-98d2-22ef2e
       1. **Last Month Spend:** Displays spending from the previous month, along with a trend compared to the month before.
       1. **Avg Daily Spend:** Calculates the average daily spending on services within the 'Internal CRM Tool.'
 1. **Table: Services Used in Internal CRM Tool:**
-   1. **Search Bar:** Enables users to search services directly.
-   1. A table with 6 columns presents detailed spending information for each service:
-      1. **Service Name:** Lists the names of services used in the 'Internal CRM Tool.'
-      1. **Current Month Spend:** Shows the Month To Date spends of a particular service.
-      1. **Last Month Spend:** Displays the total cost incurred on that service in the last month.
-      1. **Variance Compared to Last Month:** Shows the difference in spending between the current month and the last month.
-      1. **Avg Daily Spend:** Indicates the daily average spend on that service.
-      1. **Actions (View More):** Provides a 'View More' link to navigate to a detailed breakdown of that service.
+
+A table with 6 columns presents detailed spending information for each service:
+
+1. **Service Name:** Lists the names of services used in the 'Internal CRM Tool.'
+1. **Current Month Spend:** Shows the Month To Date spends of a particular service.
+1. **Last Month Spend:** Displays the total cost incurred on that service in the last month.
+1. **Variance Compared to Last Month:** Shows the difference in spending between the current month and the last month.
+1. **Avg Daily Spend:** Indicates the daily average spend on that service.
+1. **Actions (View More):** Provides a 'View More' link to navigate to a detailed breakdown of that service.
 
 **Postconditions:** Users gain granular insights into the services contributing to the cost of the 'Internal CRM Tool,' facilitating targeted optimization efforts.
 
@@ -167,7 +160,7 @@ Description automatically generated](Aspose.Words.cfad73bb-5444-4102-98d2-22ef2e
 
 **Main Flow:**
 
-![](Aspose.Words.cfad73bb-5444-4102-98d2-22ef2e9fddcf.003.png)
+
 
 1. **Clicking 'View More' for EC2 Service:**
    1. Users click the 'View More' link for the 'EC2' Service within the 'Internal CRM Tool.'
