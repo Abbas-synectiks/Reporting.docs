@@ -1,4 +1,4 @@
-﻿**Use Case: Cost Central Dashboard**
+**Use Case: Cost Central Dashboard**
 
 
 
@@ -43,13 +43,13 @@
 
 **Second Row Widgets:**
 
-- **Top 5 Regions (Pie Chart):**
-  - Users can visualize cost distribution across the top 5 regions in a pie chart.
+- **Top 5 Regions (Donut Chart):**
+  - Users can visualize cost distribution across the top 5 regions in a Donut chart.
   - The 'View Details' button leads to a more detailed breakdown of spending in each region.
-- **Top 5 Products (Pie Chart):**
-  - Presents the cost distribution across the top 5 products in a pie chart.
+- **Top 5 Products (Donut Chart):**
+  - Presents the cost distribution across the top 5 products in a Donut chart.
   - Clicking 'View Details' provides a detailed breakdown of spending on each product.
-- **Tagged vs Untagged Cost (Pie Chart):**
+- **Tagged vs Untagged Cost (Donut Chart):**
   - Visualizes the cost distribution between tagged and untagged resources.
   - Clicking 'View Details' leads to a detailed breakdown of 'Tagged vs Untagged Cost.'
 
