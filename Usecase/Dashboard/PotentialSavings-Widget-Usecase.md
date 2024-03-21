@@ -51,11 +51,10 @@ Below the buttons there are,
 
 11\. Monthly Savings graph widget displays the graphical data of the savings of each month.
 
-12\. Below the widgets, there is a data table. The data table shows information of resource type, instance id, recommendation, current instance, recommended instance, terms, payment mode, upfront cost, per hour cost, estimated savings and total spend.
+12\. Below the widgets, there is a data table. The data table "Top RI recommendation" shows information of resource type, instance id, recommendation, current instance, recommended instance, terms, payment mode, upfront cost, per hour cost, estimated savings and total spend.
 
 1. **Alternative Flow:**
 - If the user selects some other widget on overview dashboard, the corresponding data is displayed.
-- If the user selects the storage tab or the other tabs available. The data will be displayed according to the tab the user selected.
 - If the user encounters an error while accessing the Spending Overview widget or detailed spending reports, an error message is displayed, suggesting troubleshooting steps or recommending contacting support for assistance.
 
 **Post conditions:**
