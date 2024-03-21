@@ -39,7 +39,7 @@ Chargeback||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Repo
 ||Usage By Department|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/chargeback/Usage%20by%20department.md)||
 ||Monthly Usage By Department|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/chargeback/monthly%20usage%20by%20department%20usecase.md)||
 ||Monthly Cost and Budget|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/chargeback/monthly%20cost%20and%20budget%20usecase.md)||
-||Creating Invoice|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/chargeback/invoice-generation-usecase.md)||
+
 Budget Dashboard||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=29494-50186&t=raZWeZBn767mEDUn-0&scaling=scale-down&page-id=29494%3A50138&starting-point-node-id=29494%3A50186)||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Budget/Budget%20overvew%20use%20case%201.md)||
 ||Accounts With High Spending|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Budget/accounts%20with%20high%20spending.md)||
 ||Transaction Type Cost|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Budget/Transaction%20type%20cost.md)||
