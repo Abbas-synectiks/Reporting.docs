@@ -24,7 +24,7 @@
 1. On the top right corner of the detailed page, there is a duration picker button that allows the user to select a time duration ranging from 1 day to annual.
 1. The user selects a desired time duration to view spending data.
 1. Below the duration picker, an information table is displayed, providing details such as product name, date created, product category, high spending region, environment, spending, budget, and forecast.
-1. Under the "Environment" category, the user can view all the environments in which a particular product is being utilized.
+1. While hovering on the "Environment" category, the user can view all the environments in which a particular product is being utilized.
 1. If the user clicks on a product name, they are directed to a detail page.
 1. On the detail page, the user can determine whether the selected tool is 3-tier or SOA.
 1. If it's 3-tier, the detail page includes web layer, data layer, and app layer details.
