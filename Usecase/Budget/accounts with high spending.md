@@ -1,4 +1,4 @@
-**Usecase Title:** Top Accounts with High Spending Analysis
+**Usecase Title:** Accounts with High Spending 
 
 **Actors:**
 
