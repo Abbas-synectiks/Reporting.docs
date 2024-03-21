@@ -58,7 +58,7 @@
 
 9\.	The user selects the desired options for filter and duration to customize the spending data view.
 
-10\.	After selecting the options, a data table is displayed, showing the following headings:
+10\.	After selecting the options, a data table "overview of the compute services" is displayed, showing the following headings:
 
 •	Service Name
 
@@ -76,7 +76,9 @@
 
 **Alternative Flow:**
 
-•	If the user encounters an error while accessing the Spending Overview widget or detailed spending reports, an error message is displayed, suggesting troubleshooting steps or recommending contacting support for assistance.
+•	 If the user selects Storage or Database tab on the Spend Overview page, the data table changes to "overview of the storage services" or "overview of the database services" respectively
+•  The corresponding data is displayed in the table.
+• If the user encounters an error while accessing the Spending Overview widget or detailed spending reports, an error message is displayed, suggesting troubleshooting steps or recommending contacting support for assistance.
 
 **Postconditions:**
 
