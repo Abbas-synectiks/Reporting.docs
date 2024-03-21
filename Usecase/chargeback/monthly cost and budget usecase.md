@@ -108,12 +108,51 @@ The name of each instance is **clickable**, allowing users to drill down for mor
 Details include instance status, memory allocation, vCPUs, storage information, per-hour cost, usage hours, and total spend.
 
 The user efficiently Analyzes the quantity, types, and costs of EC2 instances, facilitating effective management.
-
+<br>
+<br>
+<br>
+<br>
 **Alternative Flow:**
 
-If the system encounters errors during data retrieval, the user receives appropriately formatted error messages.
+**Usecase:** Creating Invoice
+- When the user clicks "view more" on monthly cost and budget overview widget.
+- The user is taken to internal screen, where the user finds "Create invoice" button on the top.
+- When User clicks on the "Create invoice" button, User is taken to invoice creating page.
+- a. "Step 1: Add OU."
 
-If the user has insufficient permissions, an access denied message is displayed, adhering to security protocols.
+b. "Step 2: Add Project & Services."
+
+c. "Step 3: Payment and Date."
+
+**In Step 1: Add OU:**
+
+a. The user inputs the organization's name in the "Organization Name" text field, conforming to data integrity standards.
+
+b. The user selects the department from the "Select Department" dropdown menu.
+
+c. The user initiates progression to the next step by clicking the "CONTINUE" button.
+
+**In Step 2: Add Project & Services:**
+
+a. The user selects compute, storage, and network services.
+
+b. The user chooses a product from the "Select Product" dropdown menu.
+
+c. The user can navigate back to the previous step using the "BACK" button, maintaining user-friendly interactions.
+
+d. The user proceeds to the next step by clicking the "CONTINUE" button, ensuring the logical flow of the process.
+
+**In Step 3: Payment and Date:**
+
+a. The user selects the "Invoice Issuing Date" and "Invoice Expiration Date".
+
+b. The user can navigate back to the previous step using the "BACK" button, maintaining user-friendly interactions.
+
+c. The user finalizes the form submission by clicking the "CONTINUE" button, confirming the completion of the invoice create system displays a completion screen featuring a green checkmark and the message "Completed!! Invoice Created Successfully!!," ensuring a clear indication of Invoice created. 
+
+b. The user is presented with buttons for "HOME" to return to the main dashboard and "CONTINUE" for further actions, following a standard user interface pattern
+
+
 
 
 
