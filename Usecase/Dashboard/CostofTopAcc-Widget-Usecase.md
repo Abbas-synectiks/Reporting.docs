@@ -37,20 +37,22 @@ Below the buttons there are,
 
 8\. four cards, showing the following information:
 
-- This month spend
+- last month spend
 - Month to date spend
-- Forecasted spends
+- Forecasted spend
 - Average daily spend
 
-9\. below that there is information table showing data. The data table shows information of Account id, department, VPC, Service count, High spending region, spending, Variance and Budget.
+9\. below that there is information table showing data. The data table "overview of top 5 accounts" shows information of Account id, department, VPC, Service count, High spending region, spending, Variance and Budget.
 
-10\. Upon clicking account id, the system takes you to account detail page. Where the details of the account using all the services is showed. When you click view more button on the particular service, it gives you the further more details about the service.
+10\. Upon clicking account id, the system takes you to account detail page. Where the details of the account using all the services is showed. When you click view more button under actions column of the particular service, cost of that particular service page opens.
+
+11\. The cost page diplays data table of cost consumption, the table has a search bar at top right corner allowing users to search an instace by its id.
+
 
 
 **Alternative Flow:**
 
 - If the user selects some other widget on overview dashboard, the corresponding data is displayed.
-- If the user selects the storage tab or the other tabs available. The data will be displayed according to the tab the user selected.
 - If the user encounters an error while accessing the cost of top accounts widget, an error message is displayed, suggesting troubleshooting steps or recommending contacting support for assistance.
 
 **Post conditions:**
