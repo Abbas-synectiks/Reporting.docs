@@ -74,20 +74,20 @@
 
 12\.	The table consists of following Tags, Instance ID, Instance Type, Instance status, Pricing Model, Availability zone, On demand cost / per hour, Reserved Instance / per hour, Usage hours, add-ons, Total spend and there is a search bar on the top right corner of the table, it lets user search any instance by its instance id.. And its respective data below in the table.
 
-13\.	Alternative Flow:
+**Alternative Flow:**
 
 •	If the user encounters an error while accessing the Spending Overview widget or detailed spending reports, an error message is displayed, suggesting troubleshooting steps or recommending contacting support for assistance.
 
-Postconditions:
+**Postconditions:**
 
 •	The user gains insights into spending trends and patterns across various categories within the AWS environment.
 
 •	The user can analyze spending data effectively, identify areas for cost optimization, and make informed decisions to manage cloud expenses efficiently.
 
-Success Scenario:
+**Success Scenario:**
 
 •	The user successfully accesses the Spending Overview widget, navigates to the detailed spending reports, customizes the view using filter and duration options, and analyzes spending data to optimize costs effectively.
 
-Failure Scenario:
+**Failure Scenario:**
 
 •	The user encounters an error while accessing the Spending Overview widget or detailed spending reports, hindering their ability to analyze spending data and make informed decisions. The user may need to retry accessing the widget or seek assistance from the support team to resolve the issue.
