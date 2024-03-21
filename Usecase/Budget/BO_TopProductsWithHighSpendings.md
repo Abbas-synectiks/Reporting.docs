@@ -29,7 +29,7 @@ Preconditions:
 1. On the detail page, the user can determine whether the selected tool is 3-tier or SOA.
 1. If it's 3-tier, the detail page includes web layer, data layer, and app layer details.
 1. The user can select any layer to see the details of that layer on the right side of the screen, displaying all the resources being utilized.
-1. When the user clicks on any resource, they receive data about the duration of resources running and its cost.
+1. When the user clicks on any service, they receive data about the duration of resources running and its cost.
 
    Postconditions:
 
