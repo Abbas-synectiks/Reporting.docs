@@ -45,7 +45,7 @@ Budget Dashboard||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4s
 ||Transaction Type Cost|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Budget/Transaction%20type%20cost.md)||
 ||Top Products With High Spending|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Budget/BO_TopProductsWithHighSpendings.md)||
 ||Top Departments Exceeding Budget|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Budget/BO_TopDepartmentsExceedingBudget.md)||
-Cost Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?page-id=29465%3A20833&type=design&node-id=29494-29102&viewport=38%2C302%2C0.02&t=kHHSXj6QatGm37Bu-1&scaling=scale-down-width&starting-point-node-id=29494%3A29102&mode=design)||[Usecase]||
+Cost Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?page-id=29465%3A20833&type=design&node-id=29494-29102&viewport=38%2C302%2C0.02&t=kHHSXj6QatGm37Bu-1&scaling=scale-down-width&starting-point-node-id=29494%3A29102&mode=design)||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Cost%20Central%20Overview.md)||
 ||Top 5 Accounts|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Top%205%20accounts%20usecase.md)||
 ||Most Used Services|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Most%20used%20servoces%20usecases.md)||
 ||Top 5 Regions|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Cost%20Central%20-%20Top%205%20Regions%20-%20Individual.md)||
