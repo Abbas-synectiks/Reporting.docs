@@ -21,9 +21,6 @@
 1. The top used services detail page includes.
 
 
-
-
-
 1. Two buttons on the top right corner of the screen
    1. **Filter Button:**
       1. When clicked, the filter button displays options including pre-selected options called All regions, All departments, and All products.
