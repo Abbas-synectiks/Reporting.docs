@@ -48,66 +48,12 @@
       1. **Last Month Spend with Variance:** Displays the cost incurred on the product last month, along with a variance compared to the previous month.
       1. **Actions (View More):** Provides 'View More' links to navigate to the internal page of each product, where the list of services used in that product will be displayed.
 
-**Postconditions:** Users gain detailed insights into the spending details of the top products, allowing for informed decision-making and cost optimization strategies.
-
-**Success Criteria:**
-
-- Users can seamlessly navigate and interact with the detailed spending analysis of top products.
-- Overview cards provide a quick summary of key spending metrics.
-- The table offers a comprehensive breakdown of spending details for each top product.
-- 'View More' links successfully navigate to the internal pages of specific products.
-
-**Benefits:**
-
-- Users can identify and prioritize products with the highest spending.
-- Detailed insights enable proactive cost management and optimization.
-- The date picker allows users to analyze spending trends over specific time periods.
-- 'View More' links facilitate further exploration into the services used within each top product.
-
-**Conclusion:** The 'Cost of Top Products' widget enhances the user's ability to analyze and understand the spending patterns of the highest-cost products. By providing detailed insights and interactive features, this widget empowers users to make informed decisions for effective cost management within their cloud infrastructure.
-
-**The END**
-
-**Use Case: Cost of Internal CRM Tool - Detailed Services Analysis**
-
-**Title:** services Cost within 'Internal CRM Tool'
-
-**Introduction:** Upon clicking the 'View More' button in the 'Actions' tab for the 'Internal CRM Tool' on the 'Cost of Top 5 Products' page, users are directed to a new page that provides a detailed breakdown of services used within the 'Internal CRM Tool.'
-
-**Actors:**
-
-- Cloud Administrators
-- Financial Analysts
-- Stakeholders responsible for 'Internal CRM Tool' cost management
-
-**Goals or Objectives:** Enable users to delve into the specific services contributing to the cost of the 'Internal CRM Tool,' allowing for detailed analysis and optimization.
-
-**Preconditions:**
-
-- User is on the 'Cost of Top 5 Products' page.
-- The 'View More' button for the 'Internal CRM Tool' in the 'Actions' tab is visible.
-- Relevant cloud accounts are integrated with the system.
-- Data for the services used within the 'Internal CRM Tool' is available.
-
-**Main Flow:**
-
 1. **Clicking 'View More' in Actions Tab:**
    1. Users click the 'View More' link in the 'Actions' tab for the 'Internal CRM Tool.'
 1. **Navigating to New Page:**
    1. Users are directed to a new page titled 'Services in Internal CRM Tool.'
    1. Three tabs ('AWS,' 'AZURE,' 'GCP') are present, with 'AWS' selected by default.
 
-1. **Date Picker and Filter Options:**
-   1. On the top right corner, a 'Date Picker' button allows users to select a date range.
-   1. Pre-selected date options include 'Last Month,' 'This Month,' 'Last Quarter,' 'Current Quarter,' 'Current Year,' and 'Last Year.'
-   1. By default, it is selected to 'This Month.'
-   1. A 'Filter' button displays a popup with multiple dropdowns:
-      1. 'Select All Regions'
-      1. 'Select All Services'
-      1. 'Select All VPCs'
-      1. 'Select All Products'
-      1. 'Select All Accounts'
-   1. The filter is set to 'All' except for 'Products,' where 'Internal CRM Tool' is selected.
 1. **Overview Cards:**
    1. Five cards display spending details based on the selected filters:
       1. **Total Number of Services:** Indicates the total number of services used within the 'Internal CRM Tool.'
@@ -126,63 +72,12 @@ A table with 6 columns presents detailed spending information for each service:
 1. **Avg Daily Spend:** Indicates the daily average spend on that service.
 1. **Actions (View More):** Provides a 'View More' link to navigate to a detailed breakdown of that service.
 
-**Postconditions:** Users gain granular insights into the services contributing to the cost of the 'Internal CRM Tool,' facilitating targeted optimization efforts.
-
-**Success Criteria:**
-
-- Users can seamlessly navigate and interact with the detailed services analysis of the 'Internal CRM Tool.'
-- Overview cards provide a quick summary of key spending metrics for services within the 'Internal CRM Tool.'
-- The table offers a comprehensive breakdown of spending details for each service.
-- 'View More' link successfully navigates to the internal pages of each service within the 'Internal CRM Tool.'
-
-**THE END**
-
-**Use Case: Detailed Cost Analysis of EC2 Service in 'Internal CRM Tool'**
-
-**Title:** Analyzing EC2 Service Costs in 'Internal CRM Tool'
-
-**Introduction:** Upon clicking the 'View More' button for the EC2 Service within the 'Internal CRM Tool,' users are directed to a new page that provides a comprehensive breakdown of the cost associated with EC2 instances. This detailed analysis enables users to optimize spending and enhance efficiency.
-
-**Actors:**
-
-- Cloud Administrators
-- Financial Analysts
-- Stakeholders responsible for 'Internal CRM Tool' cost management
-
-**Goals or Objectives:** Enable users to perform a detailed cost analysis of EC2 instances within the 'Internal CRM Tool,' allowing for effective optimization and decision-making.
-
-**Preconditions:**
-
-- User is on the 'Cost of Top 5 Product' page.
-- 'View More' button for the 'EC2' Service within the 'Internal CRM Tool' is visible.
-- Relevant cloud accounts are integrated with the system.
-- Data for EC2 instances within the 'Internal CRM Tool' is available.
-
-**Main Flow:**
-
-
 
 1. **Clicking 'View More' for EC2 Service:**
    1. Users click the 'View More' link for the 'EC2' Service within the 'Internal CRM Tool.'
 1. **Navigating to New Page:**
    1. Users are directed to a new page titled 'EC2 Service Cost Analysis.'
    1. Two buttons on the top right corner: 'Filter' and 'Date Picker.'
-1. **Default Filter Settings:**
-   1. Upon clicking the 'Filter' button, a popup appears with dropdowns:
-      1. 'Select All Regions'
-      1. 'Select All Services' (EC2 selected by default)
-      1. 'Select All VPCs'
-      1. 'Select All Products' (Internal CRM Tool selected by default)
-      1. 'Select All Accounts'
-   1. Default settings: 'All' for regions, accounts, VPCs; 'EC2' for services; 'Internal CRM Tool' for products.
-1. **Date Picker Options:**
-   1. Clicking the 'Date Picker' button reveals pre-selected date ranges:
-      1. 'Last Month'
-      1. 'This Month' (default)
-      1. 'Last Quarter'
-      1. 'Current Quarter'
-      1. 'Current Year'
-      1. 'Last Year'
 1. **Overview Cards:**
    1. Five cards display spending details based on the selected filters:
       1. **Total EC2 Instances:** Indicates the total number of EC2 instances, including running, stopped, and terminated, in the selected month.
