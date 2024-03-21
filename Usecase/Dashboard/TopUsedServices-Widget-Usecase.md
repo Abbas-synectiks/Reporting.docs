@@ -32,14 +32,15 @@ Below the buttons there are,
    1. Forecasted spend
    1. Average daily spend
 1. Below the cards there is information table showing data of top 10 services used with the heading of the table as Service name, current month spend, last month spend, Variance, average daily spend and actions.
-1. when view details is clicked under actions tab, It takes you to a different page. The page displays four (4) cards namely, Total Ec2 instance, Running instance, stopped instances and Terminated instances. Below that there is a detailed cost report of the particular services within a tabular format.
+1. when view more is clicked under actions column in table, It takes you to service spending page. The page displays four (4) cards namely, Total Ec2 instance, Running instance, stopped instances and Terminated instances. Below that there is a detailed cost report of the particular services within a tabular format.
 1. The table consists of following Tags, Instance ID, Instance Type, Instance status, Pricing Model, Availability zone, On demand cost / per hour, Reserved Instance / per hour, Usage hours, add-ons, Total spend. And its respective data below in the table.
 
 **Alternative Flow:**
 
 1. If the user selects some other widget on overview dashboard, the corresponding data is displayed.
-1. If the user selects the storage tab or the other tabs available. The data will be displayed according to the tab the user selected.
-1. If the user encounters an error while accessing the Spending Overview widget or detailed spending reports, an error message is displayed, suggesting troubleshooting steps or recommending contacting support for assistance.
+2. If the user selects Storage or Database tab on the Spend Overview page, the data table changes to "overview of the storage services" or "overview of the database services" respectively
+3. • The corresponding data is displayed in the table
+4. If the user encounters an error while accessing the Spending Overview widget or detailed spending reports, an error message is displayed, suggesting troubleshooting steps or recommending contacting support for assistance.
 
 **Post conditions:**
 
