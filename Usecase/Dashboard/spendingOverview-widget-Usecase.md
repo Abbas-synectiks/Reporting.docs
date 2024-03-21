@@ -1,4 +1,4 @@
-Use Case: Spending Overview Widget
+**Use Case:** Spending Overview Widget
 
 
 
@@ -6,19 +6,19 @@ Use Case: Spending Overview Widget
 
 
 
-Actor: Cloud Administrator, Financial Analyst, Cloud Optimization Manager
+**Actor:** Cloud Administrator, Financial Analyst, Cloud Optimization Manager
 
-Goal: To monitor and analyze spending across different categories (compute, storage, database, network, and others) within the AWS environment using the Spending Overview widget and detailed spending reports.
+**Goal:** To monitor and analyze spending across different categories (compute, storage, database, network, and others) within the AWS environment using the Spending Overview widget and detailed spending reports.
 
-Preconditions:
+**Preconditions:**
 
 •	The user must have access to the Cloud Optimization Software dashboard.
 
 •	The user should have appropriate permissions to view spending data.
 
-Main Flow:
+**Main Flow:**
 
-1\.	The user logs in to the Cloud Optimization Software dashboard and navigates to the Spending Overview widget.
+1\.	The user logs in to the Appkube's AWS Overview Dashboard and navigates to the Spending Overview widget.
 
 2\.	The Spending Overview widget provides a graphical representation of spending data under the AWS tab, categorized into compute, storage, database, network, and others.
 
@@ -70,9 +70,9 @@ Main Flow:
 
 •	Actions Button
 
-11\.	when view details is clicked under actions tab, It takes you to a different page. The page displays four (4) cards namely, Total Ec2 instance, Running instance, stopped instances and Terminated instnces. Below that there is a detailed cost report of the particular services within a tabular format.
+11\.	when view more is clicked under actions tab, It takes you to a different page. The page displays four (4) cards namely, Total Ec2 instance, Running instance, stopped instances and Terminated instnces. Below that there is a detailed cost report of the particular services within a tabular format.
 
-12\.	The table consists of following Tags, Instance ID, Instance Type, Instance status, Pricing Model, Availability zone, On demand cost / per hour, Reserved Instance / per hour, Usage hours, add-ons, Total spend. And its respective data below in the table.
+12\.	The table consists of following Tags, Instance ID, Instance Type, Instance status, Pricing Model, Availability zone, On demand cost / per hour, Reserved Instance / per hour, Usage hours, add-ons, Total spend and there is a search bar on the top right corner of the table, it lets user search any instance by its instance id.. And its respective data below in the table.
 
 13\.	Alternative Flow:
 
