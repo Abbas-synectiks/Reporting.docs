@@ -50,7 +50,7 @@ Cost Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Re
 ||Most Used Services|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Most%20used%20services%20usecases.md)||
 ||Top 5 Regions|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Cost%20Central%20-%20Top%205%20Regions%20-%20Individual.md)||
 ||Top 5 Products|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cost-Central/Top%20Products%20Use%20Case%20Doc%20-%20AWS%20COST%20CENTRAL%20(2).md)||
-Cloud Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?page-id=32789%3A1794&type=design&node-id=32817-11754&viewport=-2138%2C-1331%2C0.5&t=PPAePcMQ9q0ehux7-1&scaling=min-zoom&starting-point-node-id=32817%3A11754&mode=design)||||
+Cloud Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?page-id=32789%3A1794&type=design&node-id=32817-11754&viewport=-2138%2C-1331%2C0.5&t=PPAePcMQ9q0ehux7-1&scaling=min-zoom&starting-point-node-id=32817%3A11754&mode=design)||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Cloud-central-db-Usecase.md)||
 ||Cloud Summary|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Cloud%20Summary%20-%20Usecase.md)||
 ||Product Category|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Product-Category-Usecase.md)||
 ||Potential Savings|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Potential-savings-Usecase.md)||
