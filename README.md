@@ -57,5 +57,5 @@ Cloud Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/R
 ||Status Of Analysed Services|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Analysed-Services-Usecase.md)||
 ||Top Accounts With More Products|||||
 ||Top Products With More Services|||||
-||Top Services|||||
+||Top Services|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Top%20Services-Usecase.md)||
 
