@@ -53,7 +53,7 @@ Cost Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Re
 Cloud Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?page-id=32789%3A1794&type=design&node-id=32817-11754&viewport=-2138%2C-1331%2C0.5&t=PPAePcMQ9q0ehux7-1&scaling=min-zoom&starting-point-node-id=32817%3A11754&mode=design)||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/cloud%20central%20db%20use%20Case.md)||
 ||Cloud Summary|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Cloud%20Summary%20-%20Usecase.md)||
 ||Product Category|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Product-Category-Usecase.md)||
-||Potential Savings|||||
+||Potential Savings|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Potential-savings-Usecase.md)||
 ||Status Of Analysed Services|||||
 ||Top Accounts With More Products|||||
 ||Top Products With More Services|||||
