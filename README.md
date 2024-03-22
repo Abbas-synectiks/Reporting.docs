@@ -54,7 +54,7 @@ Cloud Central||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/R
 ||Cloud Summary|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Cloud%20Summary%20-%20Usecase.md)||
 ||Product Category|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Product-Category-Usecase.md)||
 ||Potential Savings|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Potential-savings-Usecase.md)||
-||Status Of Analysed Services|||||
+||Status Of Analysed Services|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Cloud-Central/Analysed-Services-Usecase.md)||
 ||Top Accounts With More Products|||||
 ||Top Products With More Services|||||
 ||Top Services|||||
