@@ -30,7 +30,7 @@
 |Module|Usecase title|Prototype link|Tech flow|Usecase doc|Test case|
 |------|-------------|--------------|---------|-----------|---------|
 Dashboard Overview||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?type=design&node-id=29478-43993&t=raZWeZBn767mEDUn-0&scaling=scale-down&page-id=29478%3A37045)||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Dashboard/Dashboard-Usecase.md)||
-||Spend Overview|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Dashboard/spendingOverview-widget-Usecase.md)||
+||Spend Overview||[Figma Link](https://www.figma.com/proto/dlkcEDolt9QlU3E7qxB4sC/Reporting-Module-Prototype?page-id=29478%3A37045&node-id=33853-4923&starting-point-node-id=29478%3A43993&scaling=min-zoom&show-proto-sidebar=1&mode=design&t=5bV68rUMF1HAmNgv-1)|[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Dashboard/spendingOverview-widget-Usecase.md)||
 ||Top Used Services|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Dashboard/TopUsedServices-Widget-Usecase.md)||
 ||Potential Savings|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Dashboard/PotentialSavings-Widget-Usecase.md)||
 ||Cost Of Top Accounts|||[Usecase](https://github.com/Abbas-synectiks/Reporting.docs/blob/main/Usecase/Dashboard/CostofTopAcc-Widget-Usecase.md)||
