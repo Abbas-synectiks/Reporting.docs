@@ -2,7 +2,7 @@
 
 **Project Title:** Appkube Reporting<br>
 **Version:** 0.0.0.1  
-**Date:** Announced to be soon
+**Date:** 31/03/2024
 
  # Objectives and Goals:
  - To analyse the cloud metrics and give insights on it.
