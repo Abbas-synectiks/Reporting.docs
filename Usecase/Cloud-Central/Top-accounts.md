@@ -48,14 +48,7 @@
 1. User redirect to the particular product page. 
 1. On the 3-tier product page, on the top of the page there’s a breadcrumb to go back to the previous pages.
 1. ` `the user see all layers of the product (web layer, app layer, data layer, auxiliary layer) on the left side and overall services of the production stage on the right side. User clicks on ec2 service, which redirects to the particular service list which shows in a tabular format on the bottom of the page. Which includes the following details,
-- Instance ID
-- Instance type
-- Availability zone
-- Pricing model
-- Adds-on
-- Usage hours
-- Created on
-- Instance State
+ 1. Instance ID,  Instance Type, Availability Zone, Product Name, Adds-on, Created on, Usage hours and Instance State.
 
 1. User Clicks on the Instance ID which redirects to the instance page.
 1. On the Instance page user sees the breadcrumb to go back to the previous pages.
@@ -63,19 +56,11 @@
 1. Below that, the user sees the CPU utilization, memory utilization, network Inbound and Outbound Traffic, and Disk read and write operation.
 1. By default, all graphs show the data of the last one hour and With that user can choose the custom time range to see the data on his/her way.
 
-
    ` `<b>User Click on web layer in 17<sup>th</sup> point.</b>
 
 1. User Select the Web layer on the Left side of the page, on the right side according to the layer the services are shown.
 1. User selects the EC2 service from the services, and a table of EC2 services is shown at the bottom of the page, displaying
-- Instance ID
-- Instance type
-- Availability zone
-- Pricing model
-- Adds-on
-- Usage hours
-- Created on
-- Instance State
+ 1. Instance ID,  Instance Type, Availability Zone, Product Name, Adds-on, Created on, Usage hours and Instance State.
 1. Clicks on the Instance ID which redirects to the instance page.
 1. On the Instance page user sees the breadcrumb to go back to the previous pages.
 1. Below the breadcrumb, the user sees the instance details. Where it shows the whole details of the particular instance.
@@ -83,9 +68,6 @@
 1. By default, all graphs show the data of the last one hour and With that user can choose the custom time range to see the data on his/her way.
 
 **The user Click on the SOA Product.**
-
-**Normal Flow:**
-
 1. User clicks on the SOA Product, the user is redirected to the SOA product page.
 1. On the top of the page there’s a breadcrumb to back to the previous pages..
 1. the user see the Business and common services of the product page on the left side and overall services of the production stage on the right side. 
@@ -93,60 +75,51 @@
 1. The user can select a business or common service, the user selects the business service then the list of modules is displayed, By default first module of the business is selected According to the selection of Service, the right side shows the App service, Data Service and  other Services.
 1. The user selects the App Service, then the AWS Services of the App service is displayed in the same widget. Same to all other services.
 1. The user selects the EC2 service from the services, a table of EC2 services is shown at the bottom of the page, displaying the Items such as 
-   1. Instance ID
-   1. Instance type
-   1. Availability zone
-   1. Pricing model
-   1. Usage hours
-   1. Adds-on
-   1. Created on
-   1. Instance State
+    1. Instance ID,  Instance Type, Availability Zone, Product Name, Adds-on, Created on, Usage hours and Instance State.
 1. the user clicks on the instance ID, then the user is redirected to the particular instance page.
 1. On the Instance page user sees the breadcrumb to go back to the previous pages.
 1. Below the breadcrumb, the user sees the instance details. Where it shows the whole details of the particular instance.
 1. Below that, the user sees the CPU utilization, memory utilization, network Inbound and Outbound Traffic, and Disk read and write operation.
 1. By default, all graphs show the data of the last one hour and With that user can choose the custom time range to see the data on his/her way.
 
-<b>On 3<sup>rd</sup> point User Clicks on the EC2 from the Services of the Production stage.</b>
-
 1. On the right side, overall services of the production stage which shows the services. User clicks on ec2 service from the services, which redirects to the particular service list which shows in a tabular format on the bottom of the page. Which includes the following details,
-- Instance ID
-- Instance type
-- Availability zone
-- Pricing model
-- Adds-on
-- Usage hours
-- Created on
-- Instance State
-
+ 1. Instance ID,  Instance Type, Availability Zone, Product Name, Adds-on, Created on, Usage hours and Instance State.
 1. User Clicks on the Instance ID which redirects to the instance page.
 1. On the Instance page user sees the breadcrumb to go back to the previous pages.
 1. Below the breadcrumb, the user sees the instance details. Where it shows the whole details of the particular instance.
 1. Below that, the user sees the CPU utilization, memory utilization, network Inbound and Outbound Traffic, and Disk read and write operation.
 1. By default, all graphs show the data of the last one hour and With that user can choose the custom time range to see the data on his/her way.
 
-
 **On The top Accounts page User Clicks on the Services.**
-
-**Normal Flow:**
-
 1. User clicks on the services displayed in the table on the accounts page.
 1. User is redirected to the services page where all the services are shown in count.
 1. There is a search bar to search a service by its name. And on the top of the page, there’s a breadcrumb to go back to the previous pages.
 1. User selects the EC2 service from the list of services, which redirects to the list of EC2 services page.
 1. On the list of EC2 services page, user can view details of each instance in a tabular method and there’s a search bar to search the instance with the instance Id, the table includes the following column, 
-   1. Instance ID
-   1. Instance Type
-   1. Availability Zone
-   1. Product Name
-   1. Adds-on
-   1. Created on
-   1. Usage hours
-   1. Instance State
+   1. Instance ID,  Instance Type, Availability Zone, Product Name, Adds-on, Created on, Usage hours and Instance State.
 1. User can click on Instance ID to view details of a particular instance, which redirects them to the single instance page.
 1. On the Instance page user sees the breadcrumb to go back to the previous pages.
 1. Below the breadcrumb, the user sees the instance details. Where it shows the whole details of the particular instance.
 1. Below that, the user sees the CPU utilization, memory utilization, network Inbound and Outbound Traffic, and Disk read and write operation.
 1. By default, all graphs show the data of the last one hour and With that user can choose the custom time range to see the data on his/her way.
+
+
+**Alternative Flow:**
+
+1. If the user selects some other widget on the Cloud central dashboard, the corresponding data is displayed.
+1. If the user encounters an error while accessing the Most used service widget or detailed spending reports, an error message is displayed, suggesting troubleshooting steps or recommending contacting support for assistance.
+
+**Post conditions:**
+
+- The user gains insights into the top accounts with more products and patterns across various categories within the AWS environment.
+- The user can analyze the top used services effectively, identify areas for cost optimization, and make informed decisions to manage cloud expenses efficiently.
+
+**Success Scenario:**
+
+- The user successfully accesses the top accounts with more products widget, navigates to the detailed top used services reports, customizes the view using filter and duration options, and analyzes effectively.
+
+**Failure Scenario:**
+
+- The user encounters an error while accessing the top accounts with more products widget , hindering their ability to analyze spending data and make informed decisions. The user may need to retry accessing the widget or seek assistance from the support team to resolve the issue.
 
 
