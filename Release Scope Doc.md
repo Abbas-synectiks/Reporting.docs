@@ -45,9 +45,8 @@
 
 **Cloud Central:**
 - shows total accounts, products, and services for a holistic view and classifies products as SOA or 3-tier architecture for optimization insights.
-- Identifies cost-saving opportunities through right-sizing and resource optimization and categorizes resources as optimal, at risk, potential savings, or unanalyzed.
 - Highlights accounts with the highest number of associated products.
-- Identifies regions with the highest deployment of cloud services.
+- Identifies the highest used cloud services.
 
   # 2nd Release Segments:
 1. Tagging.
